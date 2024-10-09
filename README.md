@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm Subhan
 
- 🚀 About Me:
+### 🚀 About Me:
  
-⚡ MernStack Developer
-
-🌱 I’m currently learning MERN and DevOps
-
-💬 Ask me about Tech, Coding, or Anything!
+  <ul>
+    <li><strong>⚡ MernStack Developer</strong></li>
+    <li>🌱 I’m currently learning <strong>MERN and DevOps</strong></li>
+    <li>💬 Ask me about <strong>Tech, Coding, or Anything!</strong></li>
+  </ul>
 
 
 ## 🌐 Socials:
