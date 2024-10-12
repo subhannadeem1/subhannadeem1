@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Subhan
 
-### 🚀 About Me:
+### 🚀 About Me: 
  
   <ul>
     <li><strong>⚡ MernStack Developer</strong></li>
