@@ -6,7 +6,7 @@
     <li><strong>⚡ MernStack Developer</strong></li>
     <li>🌱 I’m currently learning <strong>MERN and DevOps</strong></li>
     <li>💬 Ask me about <strong>Tech, Coding, or Anything!</strong></li>
-  </ul>
+  </ul> 
 
 
 ## 🌐 Socials:
