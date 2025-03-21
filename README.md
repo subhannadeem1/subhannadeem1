@@ -3,8 +3,8 @@
 ### 🚀 About Me:  
   
   <ul>
-    <li><strong>⚡ MernStack Developer</strong></li>
-    <li>🌱 I’m currently learning <strong>MERN and DevOps</strong></li> 
+    <li><strong> 🌐 Full Stack Web Developer specializing in the MERN Stack.</strong></li>
+    <li>🤖 Passionate about building Chatbots and interactive web applications.</li>
     <li>💬 Ask me about <strong>Tech, Coding, or Anything!</strong></li>  
   </ul> 
 
